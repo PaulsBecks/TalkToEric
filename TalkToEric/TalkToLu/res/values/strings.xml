@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TalkToLu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Passwort">passwort</string>
+    <string name="Einloggen">einloggen</string>
+    <string name="email">E-mail</string>
+    <string name="passwort">Passwort</string>
+    <string name="register">Register</string>
+    <string name="anmelden">Anmelden</string>
+    <string name="title_activity_chatverlauf">Chatverlauf</string>
+    <string name="title_activity_freunde">Freunde</string>
+    <string name="friends">Freunde</string>
+    <string name="freunde">Freunde</string>
+    <string name="chat">Chat</string>
+    <string name="chatverlauf">Chatverlauf</string>
+    <string name="addfriend">Neuer Freund</string>
+    <string name="friendrequest">Type e-mail of your friend</string>
+
+</resources>

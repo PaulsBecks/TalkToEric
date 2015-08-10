@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/home/paul/Arbeitsfläche/TalkToEric/.metadata/.plugins/org.eclipse.jdt.core
+2910845854.index
+1813019204.index
